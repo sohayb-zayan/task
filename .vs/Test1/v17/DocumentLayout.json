@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\New folder\\Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6422C261-5898-49CD-827E-1562EC5E7358}|Test1\\Test1.csproj|d:\\desktop\\new folder\\test1\\test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6422C261-5898-49CD-827E-1562EC5E7358}|Test1\\Test1.csproj|solutionrelative:test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6422C261-5898-49CD-827E-1562EC5E7358}|Test1\\Test1.csproj|D:\\Desktop\\New folder\\Test1\\test1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6422C261-5898-49CD-827E-1562EC5E7358}|Test1\\Test1.csproj|solutionrelative:test1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Desktop\\New folder\\Test1\\Test1\\Dockerfile",
+              "RelativeDocumentMoniker": "Test1\\Dockerfile",
+              "ToolTip": "D:\\Desktop\\New folder\\Test1\\Test1\\Dockerfile",
+              "RelativeToolTip": "Test1\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-25T18:42:50.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\New folder\\Test1\\Test1\\Program.cs",
+              "RelativeDocumentMoniker": "Test1\\Program.cs",
+              "ToolTip": "D:\\Desktop\\New folder\\Test1\\Test1\\Program.cs",
+              "RelativeToolTip": "Test1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:42:27.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

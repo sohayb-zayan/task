@@ -1,0 +1,5 @@
+C:\Users\ahmed\Desktop\OS tasks\Test1\publish\Test1.exe
+C:\Users\ahmed\Desktop\OS tasks\Test1\publish\Test1.dll
+C:\Users\ahmed\Desktop\OS tasks\Test1\publish\Test1.deps.json
+C:\Users\ahmed\Desktop\OS tasks\Test1\publish\Test1.runtimeconfig.json
+C:\Users\ahmed\Desktop\OS tasks\Test1\publish\Test1.pdb
